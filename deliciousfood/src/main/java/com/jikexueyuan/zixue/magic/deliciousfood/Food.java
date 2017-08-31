@@ -126,4 +126,9 @@ public class Food {
     public void setSpicy(boolean spicy) {
         isSpicy = spicy;
     }
+
+    @Override
+    public String toString() {
+        return name;
+    }
 }

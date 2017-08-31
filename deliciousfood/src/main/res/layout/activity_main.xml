@@ -131,7 +131,7 @@
 
         <Button
             android:text="重置"
-            android:id="@+id/btn_reseet"
+            android:id="@+id/btn_reset"
             android:layout_weight="1"
             android:layout_width="0dp"
             android:layout_height="wrap_content" />
@@ -161,6 +161,7 @@
 
         <!--TODO:android:background="@null" 这有写可以把原生的按钮背景去掉-->
         <Button
+            android:onClick="openDetailActivity"
             android:id="@+id/btn_detail"
             android:background="@null"
             android:text="@string/onclick"
