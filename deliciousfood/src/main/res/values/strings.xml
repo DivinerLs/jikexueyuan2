@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">DeliciousFood</string>
+    <string name="app_name">美食大全</string>
     <string name="xiayite">下一页</string>
     <string name="shangayite">上一页</string>
     <string name="onclick">点击查看详情</string>
